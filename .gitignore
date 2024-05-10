@@ -13,7 +13,7 @@
 *.dat
 *.py
 *.gz
-
+data/
 
 
 # Byte-compiled / optimized / DLL files
