@@ -13,6 +13,7 @@
 *.dat
 *.py
 *.gz
+*.csv
 data/
 
 
